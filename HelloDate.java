@@ -14,7 +14,7 @@ public class HelloDate {
   */
   public static void main(String[] args) {
 	System.out.println("KURWA DZIA£A");
-    System.out.println("Hello, it's: ");
+    
     System.out.println(new Date());
   }
 } /* Output: (55% match)
